@@ -28,8 +28,15 @@ Reference
     pages = "1930--1943",
 }
 ```
+Credits
+---------------
+Our implementation is based on the official repository of [Dense Passage Retrieval for Open-Domain Question Answering][dpr_paper] ([Github][dpr_github]). Credits to [Meta Research][meta_research] for their contribution.
+
+License
+---------------
+This repository is CC-BY-NC 4.0 licensed following [DPR][dpr_github].
 
 [paper_link]: https://arxiv.org/abs/2304.03031
 [dpr_paper]: https://arxiv.org/abs/2004.04906
 [dpr_github]: https://github.com/facebookresearch/DPR
-[hydra_doc]: https://hydra.cc/docs/intro/
+[meta_research]: https://github.com/facebookresearch
